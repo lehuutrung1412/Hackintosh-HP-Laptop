@@ -1,4 +1,4 @@
-# Hackintosh-HP-Laptop
+# Hackintosh HP Laptop
 This is Hackintosh EFI for my laptop HP 15 based on OpenCore.\
 This is some information about my laptop:
 * Name: HP Notebook 15ac001tx
