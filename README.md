@@ -13,14 +13,15 @@ This is some information about my laptop:
 * Port: 2x USB 2.0, 1x USB 3.0, 1x 3.5mm audio jack
 ## What working?
 - [x] Onboard Graphics
-- [x] Audio
+- [x] Audio, Camera
 - [x] Brightness
 - [x] Battery Management
-- [x] Wifi with Comfast USB Wifi CF811
-- [x] Keyboard
-- [x] Touchpad
+- [x] Ethernet and Wifi with Comfast USB CF811
+- [x] Keyboard, Touchpad
+- [x] USB and Audio Port
 - [x] iCloud
 - [x] Power Management and Sleeping
 ## What not working?
 - [ ] iMessage, Facetime
 - [ ] Bluetooth
+- [ ] VGA
